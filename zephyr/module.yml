@@ -1,4 +1,4 @@
 name: BobTail
 build:
   settings:
-    board_root: config
+    board_root: .
